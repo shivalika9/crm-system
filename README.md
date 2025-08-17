@@ -38,5 +38,10 @@ It includes **logging, error handling, and automated testing (unit + integration
 - **Maven**
 
 ---
-
-## 📂 Project Structure
+photos of output
+<img width="1920" height="1080" alt="Screenshot 2025-08-17 221508" src="https://github.com/user-attachments/assets/8e1dd7b8-df70-4906-8a02-d3e9fa71d1f1" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-17 221525" src="https://github.com/user-attachments/assets/4164923f-f785-4fa6-97cf-24aa52146c93" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-17 221123" src="https://github.com/user-attachments/assets/83665a12-469d-4728-8bad-05081b2ede4e" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-17 221355" src="https://github.com/user-attachments/assets/eb657935-422c-434d-9d0b-f46709e9e10f" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-17 221625" src="https://github.com/user-attachments/assets/c318e6a7-708a-480c-b478-dca7fde12893" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-17 221640" src="https://github.com/user-attachments/assets/6071731d-d4ff-4e43-ab0f-c33b5e30705f" />
